@@ -1,5 +1,6 @@
 # magento2实战
 
+![](http://bbs-cdn.mallol.cn/magento2-in-action.png)
 
 这是国内第一本全面系统讲解Magento2的实战教程。
 
